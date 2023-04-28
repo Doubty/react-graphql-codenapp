@@ -1,0 +1,8 @@
+fragment CharacterFields on Character {
+  location {
+    id
+    name
+  }
+  image
+  created
+}
