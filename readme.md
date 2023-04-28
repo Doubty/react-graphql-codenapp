@@ -34,6 +34,5 @@ yarn dev
 - codegen
 - entre outras
 
-O deploy desse projeto para visualição pode ser visto no vercel, no seguinte link:
 
 
